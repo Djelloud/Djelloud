@@ -10,8 +10,6 @@
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mohamed-amine.djelloud.1@ens.etsmtl.ca**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
